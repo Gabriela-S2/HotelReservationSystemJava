@@ -49,4 +49,5 @@ Ao executar o `Aplicativo.java`, você verá uma saída similar a esta no consol
 
 Quarto Simples Numero: 101 Capacidade: 2 pessoas Valor da diária: 150.0 Data de entrada: 2025-07-10 Data de saída: 2025-07-13 Total de dias: 3 Valor total da reserva: R$ 450,00
 Quarto Luxo Numero: 201 Capacidade: 3 pessoas Valor da diária: 325.0 Data de entrada: 2025-07-15 Data de saída: 2025-07-18 Total de dias: 3 Valor total da reserva: R$ 975,00
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
